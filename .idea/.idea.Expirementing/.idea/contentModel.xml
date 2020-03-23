@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Dev\LoupasThanosTest\LoupasThanosTest\Expirementing" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Enemies" t="Include">
+            <e p="ChasePlayer.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+            <e p="Spawner.cs" t="Include" />
+          </e>
+          <e p="Events" t="Include">
+            <e p="GameEvent.cs" t="Include" />
+            <e p="GameEventListener.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="MouseLooker.cs" t="Include" />
+            <e p="Shooter.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="ImageFillHandler.cs" t="Include" />
+            <e p="ScoreUI.cs" t="Include" />
+          </e>
+          <e p="Variables" t="Include">
+            <e p="DamageDeal.cs" t="Include" />
+            <e p="FloatReference.cs" t="Include" />
+            <e p="FloatVariable.cs" t="Include" />
+            <e p="ObjectHealth.cs" t="Include" />
+            <e p="ObjectPoints.cs" t="Include" />
+            <e p="PointIncrease.cs" t="Include" />
+            <e p="ProjectileHit.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Expirementing.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\thano\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thano\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Expirementing.-793460292.00" t="ExcludeRecursive" />
+  </component>
+</project>
